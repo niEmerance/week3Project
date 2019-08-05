@@ -29,6 +29,9 @@
 /* Start of about us */
 .main .aboutus h1{
     text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 50px;
 }
 /* start of services */
 .main .services{
@@ -36,4 +39,15 @@
     background-repeat: no-repeat;
     background-size: 100%;
     height: 530px;
+    
+}
+.main .services #servicescontent{
+    padding-top: 30px;
+    color: white;
+}
+.main .services #servicescontent h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 50px;
 }
