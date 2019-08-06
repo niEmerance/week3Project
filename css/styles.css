@@ -136,3 +136,6 @@ footer .Titleyear{
 footer .year{
     margin-left: 550px;
 }
+#first{
+    display: none;
+}
