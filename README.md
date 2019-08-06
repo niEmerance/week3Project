@@ -5,7 +5,7 @@ Our approach unifies design, development and product management to create except
 We start each project by understanding your business goals,the user's needs and the product r
 equirements.Then we help translate them into effective and elegant solutions.
 
-
+<img src="img/delani.png">
 
 ## Author
 
@@ -18,9 +18,9 @@ Niyomufasha Emerance
 
 ## Technologies used
 
-|   Names              | Description             |
-|----------------------|-------------------------|
-|Javascript            | To calculate the day     |
+|   Names              | Description                 |
+|----------------------|-----------------------------|
+|Javascript            | To toggle the paragraph     |
 |Bootstrap             | To Design well
 
 ## Contact information
