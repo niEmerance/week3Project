@@ -11,11 +11,6 @@ equirements.Then we help translate them into effective and elegant solutions.
 
 Niyomufasha Emerance
 
-## Setup Instructions
-
-- Start by reading the information about AKAN game
-- Then you click on let's pray
-
 ## Technologies used
 
 |   Names              | Description                 |
