@@ -10,6 +10,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
     height: 630px;
+    padding: 30px;
 }
 .main .home #homecontent{
     text-align: center;
@@ -135,6 +136,10 @@ footer .Titleyear{
 }
 footer .year{
     margin-left: 550px;
+}
+.main .home #mouse{
+    padding-left: 520px; 
+    padding-top: 70px;
 }
 #first{
     display: none;
