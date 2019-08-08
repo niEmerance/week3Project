@@ -120,7 +120,7 @@
      
 }
 .main .contactus .contactuscontent form input{
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(0,0,0, 0.1);
     width: 400px;
     margin-left: 60px;
 }
@@ -128,7 +128,7 @@
     margin-left: 500px;
 }
 .main .contactus .contactuscontent form textarea{
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(0,0,0, 0.1);
     width: 800px;
     height: 200px;
     margin-left: 120px;
